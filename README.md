@@ -4,6 +4,11 @@
 ## Installation
 
 1. Clone the repository.
+
+   ```sh
+   git clone https://github.com/prd-tai-nguyen/ts-express-sequelize-starter.git
+   ```
+
 2. Install dependencies:
 
    ```sh
